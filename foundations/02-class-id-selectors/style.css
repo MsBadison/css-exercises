@@ -1,3 +1,10 @@
 .pink-box {
     background-color: #ffc0cb;
 }
+
+#blue-text {
+    color: #0000ff;
+    font-size: 36px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
