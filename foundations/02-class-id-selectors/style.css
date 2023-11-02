@@ -1,6 +1,10 @@
-.pink-box {
+.pink-box, .pink-box-large {
     background-color: #ffc0cb;
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.pink-box-large {
+    font-size: 24px;
 }
 
 #blue-text {
