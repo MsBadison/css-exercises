@@ -6,6 +6,10 @@
 #blue-text {
     color: #0000ff;
     font-size: 36px;
-    font-family: sans-serif;
+}
+
+#green-box {
+    background-color: #adff2f;
+    font-size: 24px;
     font-weight: bold;
 }
